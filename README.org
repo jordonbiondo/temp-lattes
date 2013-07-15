@@ -1,0 +1,2 @@
+* temp-latte-mode
+  Minor mode for using abbrev-like replacements and templates.
