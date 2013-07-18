@@ -143,5 +143,9 @@ The point needs to be at the end of the key text"
 (defun tl/no-key()
   "Prints a no recipe key message.."
   (princ "no recipe key at point, must be at the end of a recipe key"))
+
+
+(provide 'temp-latte-mode)
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;; temp-lattes.el ends here
+
